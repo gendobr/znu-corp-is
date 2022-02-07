@@ -15,4 +15,7 @@ java -jar 6-1229-z-1.0-SNAPSHOT.jar
 ```
 GET http://localhost:8080/greeting?name=123
 GET http://localhost:8080/greeting
+
 ```
+
+...
