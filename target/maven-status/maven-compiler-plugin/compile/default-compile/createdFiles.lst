@@ -1,3 +1,6 @@
-ua/edu/znu/cs/controllers/Greeting.class
 ua/edu/znu/cs/controllers/GreetingController.class
 ua/edu/znu/cs/App.class
+ua/edu/znu/cs/models/TermsUserRepository.class
+ua/edu/znu/cs/entities/TermsUser.class
+ua/edu/znu/cs/controllers/Greeting.class
+ua/edu/znu/cs/controllers/TermsUserController.class
